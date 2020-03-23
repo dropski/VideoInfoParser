@@ -1,1 +1,1 @@
-VideoInfoParser
+StremInfoParser
